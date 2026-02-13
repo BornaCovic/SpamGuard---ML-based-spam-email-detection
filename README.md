@@ -1,3 +1,3 @@
-# SpamGuard-ML based spam email detection
+# SpamGuard - ML based spam email detection
 ## A fully functional spam detection project which uses TF-IDF vectroization and Logistic Regression for highly accurate spam detection
 The system implements an end-to-end plain text classification pipeline for spam detection, combining structured .eml file parsing, text normalization, TF-IDF vectorization, and linear discriminative modeling. Emails are converted into a sparse vector space representation using n-gram features, and a Logistic Regression model is trained to learn a decision boundary. The architecture is built using Scikit-learn’s Pipeline abstraction to support clean experimentation and reproducible model training.
