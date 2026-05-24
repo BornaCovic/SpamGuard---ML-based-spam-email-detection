@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Allow Python files
+!*.py
+!.gitignore
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+.idea/
