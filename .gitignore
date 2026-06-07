@@ -4,6 +4,7 @@
 # Allow Python files
 !*.py
 !.gitignore
+!README.md
 
 # Ignore Python cache
 __pycache__/
